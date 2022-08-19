@@ -1,2 +1,1 @@
-# Vishal Pawar.github.io
-,dasdk
+# https://vishalpawar.netlify.app
